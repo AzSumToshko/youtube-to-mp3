@@ -1,88 +1,132 @@
 # YouTube to MP3 Converter
 
-A Python-based tool to download YouTube videos and convert them to MP3 format, with optional remote server transfer capabilities.
-
-## Features
-
-- Download YouTube videos and convert to MP3
-- Support for batch processing via configuration file
-- Remote server transfer capability
-- Sanitized filenames for compatibility
-- Detailed logging and error handling
-- Progress tracking during downloads
+A simple Python utility that downloads YouTube videos and converts them to MP3 format.
 
 ## Prerequisites
 
-- Python 3.6+
-- ffmpeg (for audio conversion)
-- SSH access (for remote transfer feature)
+- Python 3.6 or higher
+- Internet connection
+- FFmpeg (for MP3 conversion)
 
 ## Installation
 
-1. Clone the repository:
+1. Clone or download this repository:
+
 ```bash
-git clone https://github.com/AzSumToshko/youtube-to-mp3.git
+# Clone this repository
+git clone https://github.com/yourusername/youtube-to-mp3.git
 cd youtube-to-mp3
+
+# Or download just the scripts
+curl -O https://raw.githubusercontent.com/yourusername/youtube-to-mp3/main/youtube_to_mp3_yt_dlp.py
+chmod +x youtube_to_mp3_yt_dlp.py
 ```
 
-2. Install required packages:
+2. Set up a virtual environment (recommended):
+
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+# On Windows:
+venv\Scripts\activate.bat  # CMD
+.\venv\Scripts\Activate.ps1  # PowerShell
+
+# On macOS/Linux:
+source venv/bin/activate
+```
+
+3. Install required Python dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Copy `.env.example` to `.env` and configure your settings:
-```bash
-cp .env.example .env
-# Edit .env with your configuration
-```
+4. Install FFmpeg (required for MP3 conversion):
+
+- **Windows**:
+  1. Download FFmpeg from [ffmpeg.org](https://ffmpeg.org/download.html)
+  2. Extract the downloaded archive
+  3. Add the `bin` folder to your PATH environment variable
+
+- **macOS**:
+  ```bash
+  brew install ffmpeg
+  ```
+
+- **Ubuntu/Debian**:
+  ```bash
+  sudo apt-get install ffmpeg
+  ```
+
+- **Fedora**:
+  ```bash
+  sudo dnf install ffmpeg
+  ```
+
+- **Arch Linux**:
+  ```bash
+  sudo pacman -S ffmpeg
+  ```
 
 ## Usage
 
-### Single Video Download
+### Recommended Script (yt-dlp)
+
+The recommended script uses the `yt-dlp` library, which is more reliable and actively maintained:
+
 ```bash
-python youtube_to_mp3.py "https://www.youtube.com/watch?v=VIDEO_ID" -v
+python youtube_to_mp3_yt_dlp.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
-### Batch Processing with Remote Transfer
-1. Edit `tracks_config.json` with your YouTube URLs and destination folders
-2. Run:
+#### Options
+
+- `-o, --output`: Specify output directory (default: current directory)
+- `-v, --verbose`: Enable verbose output
+- `-k, --keep`: Keep original video/audio file after conversion
+
+### Alternative Script (pytube)
+
+An alternative script using `pytube` is also provided, but it may be less reliable as YouTube frequently updates their platform:
+
 ```bash
-python youtube_to_mp3_yt_dlp.py -v
+python youtube_to_mp3.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
-## Configuration
+#### Options
 
-### Environment Variables
-Create a `.env` file with the following variables:
-```
-SSH_KEY_PATH=/path/to/your/ssh/key
-SSH_PORT=your_ssh_port
-SSH_USER=your_ssh_username
-SSH_HOST=your_ssh_host
-REMOTE_BASE_PATH=/path/to/remote/music/folder
-```
+- `-o, --output`: Specify output directory (default: current directory)
+- `-v, --verbose`: Enable verbose output
 
-### Batch Configuration
-Edit `tracks_config.json`:
-```json
-{
-    "tracks": [
-        {
-            "url": "youtube_url",
-            "destination": "folder_name"
-        }
-    ],
-    "default_destination": "Music"
-}
+## Features
+
+- Downloads the highest quality audio stream available
+- Shows download progress
+- Automatically sanitizes filenames
+- Creates output directory if it doesn't exist
+- Proper error handling for common issues
+- Automatically installs required Python dependencies
+
+## Troubleshooting
+
+### FFmpeg Not Found
+
+If you see a message like:
+```
+ffmpeg not found! Converting to MP3 requires ffmpeg.
 ```
 
-## Contributing
+Follow the FFmpeg installation instructions above and ensure it's added to your system PATH.
 
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
+### Download Errors
+
+If you encounter download errors:
+
+1. Make sure you have an active internet connection
+2. Check if the video URL is valid and accessible
+3. Some videos may have restrictions that prevent downloading
+4. YouTube may have updated their platform, requiring updates to the libraries
 
 ## License
 
