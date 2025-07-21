@@ -1,0 +1,65 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/oxtbDPGyVUM?si=9spK33Z-o-pxmk4z",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/K0-LmJVHSrU?si=BJozk4wVOIteJDO6",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/a9Pa8aqvOS4?si=55_0oNAcwcoymNE0",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/H-pUuNsKIHI?si=yIl0o5OfLBpyM9sr",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/qRsHz9Py1YQ?si=vxrJBqXyGn8E5pjV",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/OIelGC92XeA?si=PzHpXqeF2eGFBivZ",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/0RByS7fI05Q?si=oKpg2JA3Dm1670_d",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/qHMWaUqK-f0?si=8zCORULTm4l4SXT3",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/WOfZIwyKtHI?si=U1PPB160MHEnUkqG",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/reAEQ19Ho1s?si=o9ApGX6hBo435O0q",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/tGzlTnos7PI?si=_t8qjgf5F0R6GKOA",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/EPUvg2q0T4Q?si=nueTK-PjXCJzf0J2",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/ELcJg3C0yjg?si=8iawaoraxvHxlKk7",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/CYyUbSHSR6M?si=AKRYP8-3opMX5poi",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/zCfntYSgCyM?si=9AvTeOcjas7hexvv",
+            "destination": "DESTINATION"
+        }
+    ],
+    "default_destination": "DESTINATION"
+}

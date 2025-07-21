@@ -1,0 +1,33 @@
+{
+    "tracks": [
+        {
+            "url": "https://www.youtube.com/watch?v=kxo1xRKhdfI&list=RDkxo1xRKhdfI&start_radio=1",
+            "destination": "Virgo"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=71sqkgaUncI&list=RD71sqkgaUncI&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=nkC5RdAPbC8&list=RDnkC5RdAPbC8&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=hFoxg4IFtqc&list=RDhFoxg4IFtqc&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=D3ZS6GaiK-M&list=RDD3ZS6GaiK-M&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=Ta2bt2Uo7ls",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=D6f0Co3R9VY&list=RDD6f0Co3R9VY&start_radio=1",
+            "destination": "DESTINATION"
+        }
+    ],
+    "default_destination": "DESTINATION"
+}

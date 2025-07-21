@@ -1,0 +1,93 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/DUTeq397N2E?si=BUhvAPTEvnD2qx49",
+            "destination": "GALIN"
+        },
+        {
+            "url": "https://youtu.be/cSoaWNKZz_k?si=7ps2FlnU3uCyaQ0E",
+            "destination": "Virgo"
+        },
+        {
+            "url": "https://youtu.be/9HhQn-j9rZw?si=xt-PWPkWgeNGad3s",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/8UpXNW0gyWQ?si=Ve8nWRe0YwJdgQ8v",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/u9t-QVSFGPo?si=l0BsZEb7JIljPSnh",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/sGc7lbbR4Rk?si=ZiBZLWcuNwaJgaX1",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/piruwrbipY8?si=wGx-rOtZ7fqi_TcN",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/XyuqDI4PH3s?si=zXvvCwoKdHmwd4a1",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/LTEsZu4Rvv0?si=IXHcrECQd2lIoY_7",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/LuL6Fp4g0t0?si=BlcFQKn68GQRoYk0",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/vDsjzI2-tHc?si=jbvggfQnezs00aKW",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/p8u3tUzOqUM?si=SiNgPEWt6H9uF-dI",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/-VFlm8CT0nc?si=aHXrs2Gf7GTTSinu",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/vAv9RILeLwY?si=WCdeXCRQyW_5kVpK",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/2q17MVe3aVE?si=KDV7XhKvkI8IjcQ-",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/3xj8nIZcTLg?si=0dlkMUORkCwJC_UF",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/0Aw6wWEDOko?si=Z6pWAKFIxdTc4fVL",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/fLWM2evtkvk?si=HmSbJvEJdyWfO-xH",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/ElYJRcXgNmo?si=fKLsicc7Dbo0ywo_",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/7BlaJqeDKLo?si=qw6Bv9zLXI_61az-",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/VC2IscJRC5w?si=sJCkO-ti5XQ8dV90",
+            "destination": "DJAANY"
+        },
+        {
+            "url": "https://youtu.be/zoa8xnzKC_U?si=WI54qfWJBcJd2WQo",
+            "destination": "DJAANY"
+        }
+    ],
+    "default_destination": "DESTINATION"
+}

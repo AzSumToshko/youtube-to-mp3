@@ -1,0 +1,29 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/y3_hdrSvDqI?si=c4TPqrqs9QJqZGvi",
+            "destination": "Gia"
+        },
+        {
+            "url": "https://youtu.be/yDgiSEfBxM4?si=1cVLhtOS37wvBkHs",
+            "destination": "Gia"
+        },
+        {
+            "url": "https://youtu.be/hLw6Wb1qL_s?si=hvjz9-oeGVdLUtMZ",
+            "destination": "Gia"
+        },
+        {
+            "url": "https://youtu.be/fLlXen48X1I?si=AznX9gVlU6usL6ay",
+            "destination": "Gia"
+        },
+        {
+            "url": "https://youtu.be/no6rl4_oLmE?si=VEmycgYENpGukNo4",
+            "destination": "Gia"
+        },
+        {
+            "url": "https://youtu.be/X0BcsMLu2_A?si=V2WumTAKipxMYUK3",
+            "destination": "Gia"
+        }
+    ],
+    "default_destination": "Gia"
+}

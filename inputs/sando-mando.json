@@ -1,0 +1,17 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/q4UEEQp1Ul0?si=Olu_3UBZGdKC410I",
+            "destination": "Sando i Mando"
+        },
+        {
+            "url": "https://youtu.be/1drS2mX-Hzk?si=SKJZL_AgpQ3DWDqq",
+            "destination": "Sando i Mando"
+        },
+        {
+            "url": "https://youtu.be/6wduqsedFr4?si=s55wNrOTB7qox1X9",
+            "destination": "Sando i Mando"
+        }
+    ],
+    "default_destination": "Sando i Mando"
+}

@@ -1,0 +1,37 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/VGnVSUEaHBM?si=i0MlqFmHCCfwMYhU",
+            "destination": "Mixes"
+        },
+        {
+            "url": "https://youtu.be/QXdhDSB2AOI?si=m0l_zYLhYMfQtc4-",
+            "destination": "Mixes"
+        },
+        {
+            "url": "https://youtu.be/hbZ4xz3m6sk?si=Sw7Eo-nuIfOLGNUW",
+            "destination": "Mixes"
+        },
+        {
+            "url": "https://youtu.be/3i7Dd3A2egg?si=ogl5ngGp-9YNC8ab",
+            "destination": "Mixes"
+        },
+        {
+            "url": "https://youtu.be/ycsiIMV8YVE?si=gmn_SvU0XJfv75Of",
+            "destination": "Mixes"
+        },
+        {
+            "url": "https://youtu.be/fd8ByfB964w?si=SvhCkP_1LYa7kXU-",
+            "destination": "Mixes"
+        },
+        {
+            "url": "https://youtu.be/btzEy_Y5rt4?si=sV7Yq7y22q3jY6tJ",
+            "destination": "Mixes"
+        },
+        {
+            "url": "https://youtu.be/mUa0yBt1kVk?si=O3_1NZ4olz6Rxekc",
+            "destination": "Mixes"
+        }
+    ],
+    "default_destination": "Mixes"
+}

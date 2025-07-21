@@ -1,0 +1,33 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/uJHVGiUM-TA?si=8raaT6z6h9WcJfFm",
+            "destination": "Fyre"
+        },
+        {
+            "url": "https://youtu.be/qkcX-dLmi5w?si=PaphSJFk9ycVmEeS",
+            "destination": "Fyre"
+        },
+        {
+            "url": "https://youtu.be/K4q-bAMh_vw?si=0aqfxCaBPbZF3mil",
+            "destination": "Fyre"
+        },
+        {
+            "url": "https://youtu.be/-xnEc86ZmI8?si=9EBVLLyZeEQq8OpS",
+            "destination": "Fyre"
+        },
+        {
+            "url": "https://youtu.be/ensk1AYP8F0?si=-L5jp886uvqfH7ov",
+            "destination": "Fyre"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=Z7fco_ApLFk",
+            "destination": "Fyre"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=vDy9rqpBOT4",
+            "destination": "Fyre"
+        }
+    ],
+    "default_destination": "Fyre"
+}

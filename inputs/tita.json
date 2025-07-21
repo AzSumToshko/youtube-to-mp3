@@ -1,0 +1,17 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/5nNm4_NLNfM?si=23wc7r0akmGUyOu9",
+            "destination": "Tita"
+        },
+        {
+            "url": "https://youtu.be/C3kv_gzQHHI?si=kOb5MpPa1zGOmBnW",
+            "destination": "Tita"
+        },
+        {
+            "url": "https://youtu.be/gbbswiZsVnA?si=1DVRbwBDlFJyVzSb",
+            "destination": "Tita"
+        }
+    ],
+    "default_destination": "Tita"
+}

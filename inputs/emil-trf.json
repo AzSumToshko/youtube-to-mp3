@@ -1,0 +1,33 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/GlWKy8AHhM4?si=caPFS29-Fwx443U_",
+            "destination": "Emil TRF"
+        },
+        {
+            "url": "https://youtu.be/tCjDh1XQYbQ?si=UrKCtYdJwcnaRpJq",
+            "destination": "Emil TRF"
+        },
+        {
+            "url": "https://youtu.be/uq0QB1jpEE8?si=LiczhlNelGgcm7KQ",
+            "destination": "Emil TRF"
+        },
+        {
+            "url": "https://youtu.be/LfUGuQCtnvQ?si=SIWOlAQov_6edX6E",
+            "destination": "Emil TRF"
+        },
+        {
+            "url": "https://youtu.be/pG9RBH80S6Y?si=2QnAIOJNnRTuqM1Q",
+            "destination": "Emil TRF"
+        },
+        {
+            "url": "https://youtu.be/ky8GabiajjE?si=nKyPVY1x8CYnVIx4",
+            "destination": "Emil TRF"
+        },
+        {
+            "url": "https://youtu.be/0Hw8qqZ2diM?si=tT3BCR-aSy871Gn5",
+            "destination": "Emil TRF"
+        }
+    ],
+    "default_destination": "Emil TRF"
+}

@@ -1,0 +1,29 @@
+{
+    "tracks": [
+        {
+            "url": "https://www.youtube.com/watch?v=Z4-g8UXa944",
+            "destination": "Damiano David"
+        },
+        {
+            "url": "https://youtu.be/kGmJQn3MLQU?si=g8rZJjn1rivM0J1F",
+            "destination": "Damiano David"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=EFqvVSqh6R8",
+            "destination": "Damiano David"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=8nqB4ymcOow",
+            "destination": "Damiano David"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=C3-x-ZajE2k",
+            "destination": "Damiano David"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=LP2nqXYwl6Q",
+            "destination": "Damiano David"
+        }
+    ],
+    "default_destination": "Damiano David"
+}

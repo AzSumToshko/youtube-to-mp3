@@ -1,0 +1,17 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/Gq9TxgFxNq0?si=lN85utiS6hXbkNVe",
+            "destination": "100 Kila"
+        },
+        {
+            "url": "https://youtu.be/keh-V_DP0y8?si=pANfNeYExA2TOUk0",
+            "destination": "100 Kila"
+        },
+        {
+            "url": "https://youtu.be/MiemFfNouFo?si=MJPBuqNLX76zl5fj",
+            "destination": "100 Kila"
+        }
+    ],
+    "default_destination": "100 Kila"
+}

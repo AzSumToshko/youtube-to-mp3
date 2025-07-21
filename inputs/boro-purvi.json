@@ -1,0 +1,33 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/WysvrKpC_o0?si=Oe17NdwBbPH5MlKu",
+            "destination": "Boro Purvi"
+        },
+        {
+            "url": "https://youtu.be/PHV0ibIePwQ?si=gpzgq7Uq271zN1mM",
+            "destination": "Boro Purvi"
+        },
+        {
+            "url": "https://youtu.be/1Ip3SkQoc88?si=Z4dx4AhBa-7E8Lqn",
+            "destination": "Boro Purvi"
+        },
+        {
+            "url": "https://youtu.be/LztQWnqEmAw?si=r2AWrUMZ0YnDtROX",
+            "destination": "Boro Purvi"
+        },
+        {
+            "url": "https://youtu.be/Ey1upEZ95FQ?si=qCcMDLgZQDDm26Vf",
+            "destination": "Boro Purvi"
+        },
+        {
+            "url": "https://youtu.be/vXc1QNC86X4?si=8C-U2lKEmrwVJK2J",
+            "destination": "Boro Purvi"
+        },
+        {
+            "url": "https://youtu.be/7Rk2BzeWQQE?si=r72kYAq-NmT7jD4E",
+            "destination": "Boro Purvi"
+        }
+    ],
+    "default_destination": "Boro Purvi"
+}

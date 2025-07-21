@@ -1,0 +1,61 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/DxudozGHyME?si=TbwJDayFKaY-m0eu",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/PeUMtCMVQRk?si=0xlKnluaFpc_IA9t",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/pMqV8S-gOeY?si=p4hJAGoEsGi5wmrg",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/yiTITA96T78?si=HFR8SfkO7wh6HF0o",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/y2vpkWvbcLU?si=zIL7gwcuiVCSrefx",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/0CBJzH0LziY?si=G75K3rnSW7dhrHOB",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/5Lv6mrolWkM?si=CpJZQlVnKKGO56OL",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/FAbF8HeQLWE?si=o3ygJEbtdBJ-eqDu",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/vVnB-ObCjTs?si=ztgfCpLp8dNMqkDy",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/GpwK02uA4Bg?si=pdy6CfXR6FiwJBSl",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/O2YMkjFd_l8?si=oQp4tNPRNQ06QCRC",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/5vG5ahLlWCo?si=fQMY-RFeqA3zAJaR",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/QxjKcp4SOeU?si=fGZVMqsQvsCItU-f",
+            "destination": "Mitrev"
+        },
+        {
+            "url": "https://youtu.be/NW92gqTDxYg?si=alrOwcIWXQUyKZSk",
+            "destination": "Mitrev"
+        }
+    ],
+    "default_destination": "Mitrev"
+}
