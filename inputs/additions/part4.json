@@ -1,0 +1,41 @@
+{
+    "tracks": [
+        {
+            "url": "https://www.youtube.com/watch?v=jEoVoNFmHYo",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=WX6tPCy6YU0&list=RDWX6tPCy6YU0&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=tmxn6-j6QSY&list=RDtmxn6-j6QSY&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=SLXZebwNDEI&list=RDSLXZebwNDEI&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=rKgNJ2SeL40&list=RDrKgNJ2SeL40&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=4u4zNDc6awE&list=RD4u4zNDc6awE&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=Ef75kGRNP18&list=RDEf75kGRNP18&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=9jM7p2J-s5I&list=RD9jM7p2J-s5I&start_radio=1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=FGs3FerVLgg&list=RDFGs3FerVLgg&start_radio=1",
+            "destination": "DESTINATION"
+        }
+    ],
+    "default_destination": "DESTINATION"
+}
