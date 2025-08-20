@@ -1,0 +1,89 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/BEMqpQwuc5Y?si=j9tc3kWb_hqOVW7q",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/0p34aRTuGrM?si=vmKqzgzXm9A1a3xb",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=AFuh1wZzukY",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/1vFuEiDfBJU?si=Tp42hOeYTW1PsLWm",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/ab9176Srb5Y?si=stt4SwPBAbThd-Pn",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/mL917Cm7wDU?si=l3Br3KLSoBqtweFU",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/hruYb58gmUQ?si=H18fyzLsc9MKQDHu",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/cdavEE5fWV0?si=zyXnIhM40iTTAjuO",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/OqVNYcaS-3E?si=OKrcNA2Y_TTrPcNY",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/1mjlM_RnsVE?si=1LHe8H7ACj4oTSmP",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/X6D2pe1FCfE?si=DnhK-s-hQyiaUqBb",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/14Jze99-nDc?si=y5iL2OtmZ1aqqOvc",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/WHRpNGrkt88?si=70KRxjvCXjqyWagU",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/aYDUIRG-l_I?si=niXv_NEbrPB_hImC",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/5JJDW65b0Ow?si=jcrxrbK-tBzW0eU1",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/wfKp0MB_TJA?si=EcTAhAkBwT6znMC6",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/6NnYw1sjskc?si=YhtptyfXXR4JYxbj",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/8wNvJOZtDTI?si=XNcGl_049zPfR0Ey",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/GIWqDtjsFAc?si=1zw-x2KQpGV6gaCT",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/IqRXM4LoKLM?si=dyCzYSS2yEz56aLT",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/TlPAi7QlcMk?si=X2DYEk6SmZKhwIPY",
+            "destination": "DESTINATION"
+        }
+    ],
+    "default_destination": "DESTINATION"
+}

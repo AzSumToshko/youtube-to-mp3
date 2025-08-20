@@ -1,15 +1,15 @@
 {
     "tracks": [
         {
-            "url": "https://www.youtube.com/watch?v=83aeLdUVRgE&list=RD83aeLdUVRgE&start_radio=1",
+            "url": "",
             "destination": "DESTINATION"
         },
         {
-            "url": "https://www.youtube.com/watch?si=y9KIdsUYxPBK3mIH&v=O0YigtEHO6g&feature=youtu.be",
+            "url": "",
             "destination": "DESTINATION"
         },
         {
-            "url": "https://www.youtube.com/watch?v=jZvTfQHPqyg",
+            "url": "",
             "destination": "DESTINATION"
         }
     ],
