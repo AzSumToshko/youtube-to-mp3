@@ -1,0 +1,10 @@
+FAILED DOWNLOADS REPORT
+==================================================
+Generated: 2025-09-04 17:18:22
+Total failed: 1
+
+1. URL: https://youtu.be/9dcVOmEQzKA?si=QXjsw_1H4zV0Qm6F
+   Destination: DESTINATION
+   Error: Download failed for track 32
+   Timestamp: 2025-09-04 17:10:07
+--------------------------------------------------

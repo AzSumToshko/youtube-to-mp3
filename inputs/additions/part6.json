@@ -1,0 +1,21 @@
+{
+    "tracks": [
+        {
+            "url": "https://youtu.be/ilV3qtUzTDo?si=_RyZCfzVoGbfdIZb",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/4v05UbhmSKQ?si=WL5FBrX7SrwXooCH",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/JwyN-20uh88?si=9pXJEgZb1KvmIpbK",
+            "destination": "DESTINATION"
+        },
+        {
+            "url": "https://youtu.be/YFvPBbX-ipQ?si=ArA6YB6_XIxBzLVz",
+            "destination": "DESTINATION"
+        }
+    ],
+    "default_destination": "DESTINATION"
+}
