@@ -1,10 +1,20 @@
 FAILED DOWNLOADS REPORT
 ==================================================
-Generated: 2025-09-04 17:18:22
-Total failed: 1
+Generated: 2025-09-26 19:04:36
+Total failed: 3
 
-1. URL: https://youtu.be/9dcVOmEQzKA?si=QXjsw_1H4zV0Qm6F
+1. URL: https://www.youtube.com/watch?v=12M0kUX3A3Q
    Destination: DESTINATION
-   Error: Download failed for track 32
-   Timestamp: 2025-09-04 17:10:07
+   Error: Download failed for track 3
+   Timestamp: 2025-09-26 19:02:46
+--------------------------------------------------
+2. URL: https://youtu.be/Ad5JOQo2M98?si=vLYgfrTV_vNAUVu1
+   Destination: DESTINATION
+   Error: Download failed for track 4
+   Timestamp: 2025-09-26 19:02:50
+--------------------------------------------------
+3. URL: https://www.youtube.com/watch?v=4Sdb3qhAzQs
+   Destination: DESTINATION
+   Error: Download failed for track 6
+   Timestamp: 2025-09-26 19:03:01
 --------------------------------------------------
